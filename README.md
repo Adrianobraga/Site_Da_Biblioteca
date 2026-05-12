@@ -1,8 +1,15 @@
-# React + Vite
+# Biblioteca Escolar 📚
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém uma réplica de demonstração do sistema de biblioteca desenvolvido originalmente para a EEEP Paulo Petrola.
 
-Currently, two official plugins are available:
+O projeto original foi construído utilizando a stack LAMP (Linux, Apache, MySQL e PHP). Para tornar o projeto visível e testável de forma imediata no portfólio (sem a necessidade de um servidor local ativo), desenvolvi esta versão que substitui o banco de dados SQL pelo LocalStorage do navegador.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Tecnologias desta Réplica
+
+- Frontend: React (Vite)
+
+- Estilização: Tailwind CSS
+
+- Persistência de Dados: LocalStorage (Simula o banco de dados localmente)
+
+## Disponivel 
